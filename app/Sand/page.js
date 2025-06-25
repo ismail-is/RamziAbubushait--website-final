@@ -50,20 +50,21 @@ export default function Home() {
                                         <div className="services-details__content-text3-list">
                                             <ul>
                                                    <h2>Applications :</h2>
+                                                   <pre></pre>
                                                 <li>
-                                                    <p><span className="icon-verified">  </span> Rust, Scale & Paint Removal: Effective cleaning of corroded or weathered metal surfaces including steel structures, tanks, and tools.</p>
+                                                    <p><span className="icon-verified">  </span>&nbsp;&nbsp; Rust, Scale & Paint Removal: Effective cleaning of corroded or weathered metal surfaces including steel structures, tanks, and tools.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified">  </span>  Pipeline & Tank Maintenance: Surface preparation of industrial piping, storage tanks, and reactors for safety, performance, and coating.</p>
+                                                    <p><span className="icon-verified">  </span>&nbsp;&nbsp;  Pipeline & Tank Maintenance: Surface preparation of industrial piping, storage tanks, and reactors for safety, performance, and coating.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Pre-Coating & Painting Treatment: Ideal for achieving proper surface profile and anchor pattern for paint, powder coat, epoxy, or galvanizing.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Pre-Coating & Painting Treatment: Ideal for achieving proper surface profile and anchor pattern for paint, powder coat, epoxy, or galvanizing.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Marine, Industrial & Automotive Prep: Removal of salt deposits, biofouling, grease, and paint from ships, machinery, and vehicle parts.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Marine, Industrial & Automotive Prep: Removal of salt deposits, biofouling, grease, and paint from ships, machinery, and vehicle parts.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Concrete Preparation: Roughening and smoothing surfaces for waterproofing, paint adhesion, epoxy floor installation, or aesthetic coating.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Concrete Preparation: Roughening and smoothing surfaces for waterproofing, paint adhesion, epoxy floor installation, or aesthetic coating.</p>
                                                 </li>
                                                 
                                             </ul>
@@ -88,22 +89,22 @@ export default function Home() {
 
                             <div className="col-xl-12 col-lg-6 col-md-6">
                                    <h2>
-Methods Used:</h2>
+Methods Used:</h2><pre></pre>
                                         <div className="services-details__content-text3-list">
                                             
                                             <ul>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Abrasive Grit Blasting</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Abrasive Grit Blasting</p>
                                                 </li>
                                                
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Bead Blasting</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Bead Blasting</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Steel Shot Blasting</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Steel Shot Blasting</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Soda Blasting</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Soda Blasting</p>
                                                 </li>
                                                
                                             </ul>

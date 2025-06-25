@@ -49,44 +49,45 @@ export default function Home() {
                                         <div className="services-details__content-text3-list">
                                             <ul>
                                                    <h2>What We Offer:</h2>
+                                                   <pre></pre>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Earthmoving Equipment: Excavators, backhoe loaders, bulldozers, wheel loaders, and graders.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Earthmoving Equipment: Excavators, backhoe loaders, bulldozers, wheel loaders, and graders.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Lifting & Handling Solutions: Mobile cranes, forklifts, telehandlers, and boom lifts.</p>
+                                                    <p><span className="icon-verified"></span> &nbsp;&nbsp;Lifting & Handling Solutions: Mobile cranes, forklifts, telehandlers, and boom lifts.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Concrete & Compaction Machinery: Concrete mixers, vibrators, power trowels, and compactors.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Concrete & Compaction Machinery: Concrete mixers, vibrators, power trowels, and compactors.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Utility Support: Diesel generators, air compressors, water pumps, welding machines.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Utility Support: Diesel generators, air compressors, water pumps, welding machines.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Transportation Vehicles: Dumpers, trailers, water tankers, tippers, and flatbeds.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Transportation Vehicles: Dumpers, trailers, water tankers, tippers, and flatbeds.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> All machines are maintained to peak operating condition by our in-house technicians, ensuring safety, performance, and fuel efficiency on-site.</p>
+                                                    <p><span className="icon-verified"></span> &nbsp;&nbsp;All machines are maintained to peak operating condition by our in-house technicians, ensuring safety, performance, and fuel efficiency on-site.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> On-Site Support: Field installation, fit-up, and structural erection with safety supervision and engineering coordination. Our mobile teams are available for remote project sites.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; On-Site Support: Field installation, fit-up, and structural erection with safety supervision and engineering coordination. Our mobile teams are available for remote project sites.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Service Highlights:</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Service Highlights:</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Operator-inclusive or bare rentals</p>
+                                                    <p><span className="icon-verified"></span> &nbsp;&nbsp;Operator-inclusive or bare rentals</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Flexible hiring terms: hourly, daily, weekly, or monthly</p>
+                                                    <p><span className="icon-verified"></span> &nbsp;&nbsp;Flexible hiring terms: hourly, daily, weekly, or monthly</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> On-site servicing and backup support</p>
+                                                    <p><span className="icon-verified"></span> &nbsp;&nbsp;On-site servicing and backup support</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Prompt delivery and pickup from any site</p>
+                                                    <p><span className="icon-verified"></span> &nbsp;&nbsp;Prompt delivery and pickup from any site</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Safety certifications and documentation included</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Safety certifications and documentation included</p>
                                                 </li>
                                             </ul>
                                         </div>
@@ -105,25 +106,25 @@ export default function Home() {
 
                             <div className="col-xl-12 col-lg-6 col-md-6">
                                    <h2>
-Ideal For:</h2>
+Ideal For:</h2><pre></pre>
                                         <div className="services-details__content-text3-list">
                                             
                                             <ul>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Road & Bridge Construction</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Road & Bridge Construction</p>
                                                 </li>
                                                
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Civil Infrastructure Projects</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Civil Infrastructure Projects</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Commercial Site Development</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Commercial Site Development</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Water & Drainage Works</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Water & Drainage Works</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Mining & Material Transport</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Mining & Material Transport</p>
                                                 </li>
                                             </ul>
                                         </div>

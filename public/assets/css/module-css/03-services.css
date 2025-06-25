@@ -665,7 +665,7 @@ Services Details
     font-size: 18px;
     line-height: 25px;
     font-weight: 600;
-    font-family: var(--billdins-font-two);
+    font-family: var(--billdins-font);
 }
 
 .services-details__content-text3-list ul li p span {

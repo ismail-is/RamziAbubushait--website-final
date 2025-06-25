@@ -135,7 +135,7 @@ export default function Header2({ scroll, handlePopup, handleMobileMenu }) {
                             <div className="main-menu__wrapper-inner">
                                 <div className="main-header-one__bottom-left">
                                     <div className="logo-one">
-                                      <Link href="/"><img src="assets/images/allimg/logo.png" alt="" style={{width:'300px'}}/></Link>
+                                      <Link href="/"><img src="assets/images/allimg/Ramzi.png" alt="" style={{width:'300px'}}/></Link>
                                     </div>
                                 </div>
 

@@ -49,24 +49,24 @@ export default function Home() {
 <div className="col-xl-12 col-lg-6 col-md-6">
                                         <div className="services-details__content-text3-list">
                                             <ul>
-                                                   <h2>Product Range:</h2>
+                                                   <h2>Product Range:</h2><pre></pre>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Structural Steel Materials : I-beams, angles, channels, flat bars, steel plates, MS/SS rods</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Structural Steel Materials : I-beams, angles, channels, flat bars, steel plates, MS/SS rods</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Pipes & Fittings : GI, SS, MS, PVC pipes, elbows, tees, reducers, flanges, valves</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Pipes & Fittings : GI, SS, MS, PVC pipes, elbows, tees, reducers, flanges, valves</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Welding Consumables : Welding rods, electrodes, filler wire, torches, gas cylinders</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Welding Consumables : Welding rods, electrodes, filler wire, torches, gas cylinders</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Electrical Supplies: Industrial cables, control panels, DB boxes, breakers, lighting</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Electrical Supplies: Industrial cables, control panels, DB boxes, breakers, lighting</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Safety Equipment & PPE: Helmets, gloves, harnesses, jackets, eyewear, and signage</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Safety Equipment & PPE: Helmets, gloves, harnesses, jackets, eyewear, and signage</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Hardware & Fasteners: Bolts, nuts, washers, clamps, anchors, cutting & grinding wheels</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Hardware & Fasteners: Bolts, nuts, washers, clamps, anchors, cutting & grinding wheels</p>
                                                 </li>
                                                
                                             </ul>
@@ -97,43 +97,43 @@ export default function Home() {
 
                             <div className="col-xl-12 col-lg-6 col-md-6">
                                    <h2>
-Key Advantages:</h2>
+Key Advantages:</h2><pre></pre>
                                         <div className="services-details__content-text3-list">
                                             
                                             <ul>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Wide network of reliable suppliers</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Wide network of reliable suppliers</p>
                                                 </li>
                                                
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Competitive pricing with bulk order support</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Competitive pricing with bulk order support</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Material traceability and test certificates</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Material traceability and test certificates</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Logistics and delivery coordination to any site</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Logistics and delivery coordination to any site</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Custom packaging and labeling on request</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Custom packaging and labeling on request</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Industries Served</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Industries Served</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"> </span>Civil and Infrastructure Projects</p>
+                                                    <p><span className="icon-verified"> </span>&nbsp;&nbsp;Civil and Infrastructure Projects</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Oil & Gas and Petrochemical Plants</p>
+                                                    <p><span className="icon-verified"></span> &nbsp;&nbsp;Oil & Gas and Petrochemical Plants</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Electrical and Mechanical Installations</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Electrical and Mechanical Installations</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"> </span>Fabrication and Engineering Units</p>
+                                                    <p><span className="icon-verified"> </span>&nbsp;&nbsp;Fabrication and Engineering Units</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>General Contracting and EPC Companies</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;General Contracting and EPC Companies</p>
                                                 </li>
                                             </ul>
                                         </div>

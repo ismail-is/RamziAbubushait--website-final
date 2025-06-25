@@ -13,7 +13,7 @@ export default function Footer1() {
                 <div className="container">
                     <div className="site-footer__top-inner">
                         <div className="site-footer__logo">
-                            <Link href="/"><img src="assets/images/allimg/logo.png" alt="" style={{width:'300px'}}/></Link>
+                            <Link href="/"><img src="assets/images/allimg/Ramzi.png" alt="" style={{width:'300px'}}/></Link>
                         </div>
 
                         {/* <div className="site-footer__subscribe-form">

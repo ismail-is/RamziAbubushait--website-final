@@ -109,7 +109,8 @@ export default function Team() {
                                 </ul>
                             </div>
                                             </div>
-                                            <div className="team-one__right-single-inner">
+                                            
+                                            <div className="team-one__right-single-inner" >
 
                                                 <div className="author-box">
                                                     <h2>Our Vision</h2>
@@ -255,7 +256,7 @@ export default function Team() {
                         </div>
                     </div>
 
-                       <div className="col-xl-6">
+                       <div className="col-xl-6" style={{marginTop:'20px'}}>
                         <div className="team-one__right">
                             <div className="swiper-container" id="team-one__carousel">
                                 <Swiper {...swiperOptions} className="swiper-wrapper">

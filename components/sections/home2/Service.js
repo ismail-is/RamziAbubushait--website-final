@@ -105,7 +105,7 @@ export default function Service() {
 
                                                 <div className="content-box">
                                                     <div className="text">
-                                                        <h3><Link href="Sand">Sand Blasting</Link></h3>
+                                                        <h3><Link href="Sand" style={{marginLeft:'20px'}}>Sand Blasting</Link></h3>
                                                     </div>
 
                                                     <div className="icon-box">

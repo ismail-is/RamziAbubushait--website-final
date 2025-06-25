@@ -23,7 +23,7 @@ export default function Faq() {
         {/* Start Faq One*/} 
         <section className="faq-one">
             <div className="shape1"><img src="assets/images/shapes/faq-v1-shape1.png" alt=""/></div>
-            <div className="shape2"><img src="assets/images/shapes/faq-v1-shape2.png" alt=""/></div>
+            <div className="shape2"><img src="assets/images/allimg/shape3.png" alt=""/></div>
             <div className="shape3"><img src="assets/images/shapes/faq-v1-shape3.png" alt=""/></div>
             <div className="shape4 float-bob-x"><img src="assets/images/shapes/faq-v1-shape4.png" alt=""/></div>
             <div className="container">

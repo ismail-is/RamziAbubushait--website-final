@@ -22,7 +22,7 @@ export default function Home() {
                 }
     return (
         <>
-        <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="Steel ">
+        <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="Steel Fabrication">
         {/* Start Services Details*/} 
         <section className="services-details">
             <div className="container">
@@ -49,22 +49,22 @@ export default function Home() {
                                         <div className="services-details__content-text3-list">
                                             <ul>
                                                 <li >
-                                                    <p  ><span className="icon-verified"></span> Structural Steel Frames: Complete fabrication of structural steel frameworks for commercial buildings, warehouses, industrial plants, and infrastructure projects.</p>
+                                                    <p  ><span className="icon-verified"></span> &nbsp;&nbsp;Structural Steel Frames: Complete fabrication of structural steel frameworks for commercial buildings, warehouses, industrial plants, and infrastructure projects.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Beams, Columns, Trusses & Bracings: Fabrication of standard and custom load-bearing components using precision CNC cutting, punching, and welding.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Beams, Columns, Trusses & Bracings: Fabrication of standard and custom load-bearing components using precision CNC cutting, punching, and welding.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Industrial Platforms & Walkways: Design and manufacture of safe and durable access solutions including walkways, stairs, mezzanines, and maintenance platforms.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Industrial Platforms & Walkways: Design and manufacture of safe and durable access solutions including walkways, stairs, mezzanines, and maintenance platforms.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Storage Tanks, Silos, and Enclosures: Manufacturing of cylindrical and rectangular tanks, hoppers, bins, and enclosures for industries such as water treatment, agriculture, and chemical processing.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Storage Tanks, Silos, and Enclosures: Manufacturing of cylindrical and rectangular tanks, hoppers, bins, and enclosures for industries such as water treatment, agriculture, and chemical processing.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Welding Services: MIG (Metal Inert Gas), TIG (Tungsten Inert Gas), and Arc welding provided by certified professionals with adherence to industry standards and safety protocols.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Welding Services: MIG (Metal Inert Gas), TIG (Tungsten Inert Gas), and Arc welding provided by certified professionals with adherence to industry standards and safety protocols.</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Storage Tanks, Silos, and Enclosures: Manufacturing of cylindrical and rectangular tanks, hoppers, bins, and enclosures for industries such as water treatment, agriculture, and chemical processing.</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp; Storage Tanks, Silos, and Enclosures: Manufacturing of cylindrical and rectangular tanks, hoppers, bins, and enclosures for industries such as water treatment, agriculture, and chemical processing.</p>
                                                 </li>
                                                 <li>
                                                     <p><span className="icon-verified"></span> On-Site Support: Field installation, fit-up, and structural erection with safety supervision and engineering coordination. Our mobile teams are available for remote project sites.</p>
@@ -90,24 +90,25 @@ export default function Home() {
 
                             <div className="col-xl-12 col-lg-6 col-md-6">
                                    <h2>Materials Handled:</h2>
+                                   <pre></pre>
                                         <div className="services-details__content-text3-list">
                                             
                                             <ul>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Mild Steel (MS)</p>
+                                                    <p><span className="icon-verified"></span> &nbsp;&nbsp;Mild Steel (MS)</p>
                                                 </li>
                                                
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Structural Steel</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Structural Steel</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Stainless Steel (SS)</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Stainless Steel (SS)</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Galvanized Steel</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Galvanized Steel</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Aluminum and other alloys</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Aluminum and other alloys</p>
                                                 </li>
                                             </ul>
                                         </div>
@@ -121,27 +122,28 @@ export default function Home() {
                             </div>
                                    <div className="col-xl-12 col-lg-6 col-md-6">
                                    <h2>Applications:</h2>
+                                   <pre></pre>
                                         <div className="services-details__content-text3-list">
                                             
                                             <ul>
                                                 <li>
-                                                    <p><span className="icon-verified"></span> Commercial and Industrial Buildings</p>
+                                                    <p><span className="icon-verified"></span> &nbsp;&nbsp;Commercial and Industrial Buildings</p>
                                                 </li>
                                                
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Energy and Power Sector</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Energy and Power Sector</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Oil & Gas Infrastructure</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Oil & Gas Infrastructure</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Water Treatment Plants</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Water Treatment Plants</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Transportation Terminals</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Transportation Terminals</p>
                                                 </li>
                                                 <li>
-                                                    <p><span className="icon-verified"></span>Warehouses and Storage Facilities</p>
+                                                    <p><span className="icon-verified"></span>&nbsp;&nbsp;Warehouses and Storage Facilities</p>
                                                 </li>
                                             </ul>
                                         </div>
